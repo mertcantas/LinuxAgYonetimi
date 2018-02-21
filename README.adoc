@@ -1,2 +1,2 @@
-# LinuxAgYonetimi
+# LinuxAgYonetimi 1.hafta
 linux ödev gönderim için private repo
