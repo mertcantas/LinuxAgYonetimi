@@ -1,0 +1,2 @@
+# LinuxAgYonetimi
+linux ödev gönderim için private repo
